@@ -2,6 +2,7 @@
 
 ## Overview
 Extra UI Tools and helpers for Unity Engine.
+-Contains ready-to-use gameobjects
 
 ## Features/Contents
 - `UI_Moveable` – Drag and move UI elements
@@ -18,7 +19,7 @@ Extra UI Tools and helpers for Unity Engine.
         - Select an anchor preset for the TargetRectTransform ()
             = Hold SHIFT + ALT then select a non-stretching preset depending on your chosen CollapsePosition
 
-- `UI_Resizable` – Resizes an object
+- `UI_Resizable` – Resizes an object by pulling a selected image
 
 ### Edited UI Components:
 - `CL_Toggle` - exposed an OnTrue and OnFalse event. And made the toggle activate at Start()
